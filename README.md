@@ -1,7 +1,7 @@
 # 👻 HuTaoOS (Kimono Goldfish Edition)
 
 <p align="center">
-  <img src="assets/wallpapers/hutao_yukata.jpg" width="600" alt="HuTaoOS Preview">
+  <img src= 1f1720e8e5fa2571f5b9c3ddf6eff4f4.jpg width="600" alt="HuTaoOS Preview">
 </p>
 
 **HuTaoOS** là phiên bản tùy biến giao diện hệ điều hành lấy cảm hứng từ nhân vật **Hu Tao** (Genshin Impact) trong trang phục Yukata họa tiết cá vàng. Dự án được phát triển dựa trên nền tảng gốc **FurinaOS** của `Nguyenhailongmeowmeow`.
